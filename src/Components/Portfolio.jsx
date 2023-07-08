@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Basic Machine Learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learn the basics of Machine Learning, how to implement them in Python and take your first step towards AI.",
+    url: "https://dev.to/tanveershahriar/machine-learning-basic-2lp1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Univariate Linear Regression",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learn how to implement Univariate Linear Regression in Python and how to use it to predict future values.",
+    url: "https://dev.to/tanveershahriar/univariate-linear-regression-1anl",
   },
   {
-    title: "My Resume Site",
+    title: "Azure Virtual Machine",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Learn about Azure Virtual Machine, how to create one and how to connect to it. Take your first step towards Cloud Computing.",
+    url: "https://dev.to/tanveershahriar/azure-virtual-machine-5fo",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Basic Web Development Project with React",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A website to sale fruits with authentication, authorization and payment gateway with React, Firebase and Stripe.",
+    url: "https://assignment11-3d880.web.app",
   },
 ];
 
